@@ -1,7 +1,7 @@
 ### Oii, Eu sou a Karina Batista 👋
   
 - 🌱 Cursando Análise Desenvolvimento de Sistemas
-- 💡 Estudando para ser front-end
+- 💡  Estudando para ser front-end
 - 😄 Pronouns: ela/dela
 
 ##
