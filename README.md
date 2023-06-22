@@ -1,6 +1,6 @@
 ### Oii, Eu sou a Karina Batista 👋
   
-- 🌱 Cursando Análise Desenvolvimento de Sistemas
+- 🎓Estudante de ADS - Uninter - 1º Semestre
 - 💡  Estudando para ser front-end
 
 
