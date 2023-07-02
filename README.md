@@ -1,6 +1,7 @@
 ### Oii, Eu sou a Karina Batista 👋
   
 - 🎓 Estudante de ADS - Uninter - 1º Semestre
+- 👩‍💻Estou procurando aprender mais sobre tecnologia, codificação e outros...
 
 
 ## Social Media:
