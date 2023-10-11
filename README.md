@@ -1,6 +1,6 @@
 ### Oii, Eu sou a Karina Domingos👋
   
-- 🎓 Estudante de ADS - Uninter - 1º Semestre
+- 🎓 Estudante de ADS - Uninter - 2º Semestre
 - 👩‍💻Estou procurando aprender mais sobre tecnologia, codificação e outros...
 
 
