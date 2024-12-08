@@ -1,6 +1,6 @@
 ### Oii, Eu sou a Karina Batista👋
   
-- 🎓 TECNOLOGIA EM MARKETING DIGITAL - Uninter - 1º Semestre
+- 🎓 Estudante de TECNOLOGIA EM MARKETING DIGITAL - Uninter - 1º Semestre
 
 
 ## Social Media:
