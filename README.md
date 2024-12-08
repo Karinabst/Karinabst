@@ -1,7 +1,6 @@
 ### Oii, Eu sou a Karina Batista👋
   
-- 🎓 Estudante de ADS - Uninter - 2º Semestre
-- 👩‍💻Estou procurando aprender mais sobre tecnologia, codificação e outros...
+- 🎓 TECNOLOGIA EM MARKETING DIGITAL - Uninter - 1º Semestre
 
 
 ## Social Media:
